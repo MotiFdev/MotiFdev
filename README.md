@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences (I have experience mainly in Java, and I also have some knowledge of HTML and CSS, which I'm still learning. However, I plan to focus on Java because I aspire to become an Android developer.)
 
-- ⚡ Fun fact **I'm Slow learner**
+- ⚡ Fun fact **If the code doesn't bother you, don't bother it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
