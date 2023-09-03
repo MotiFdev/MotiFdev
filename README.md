@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [N/A](N/A)
+- 👨‍💻 All of my projects are available at [N/A]
 
-- 📝 I regularly write articles on [N/A](N/A)
+- 📝 I regularly write articles on [N/A]
 
 - 📫 How to reach me **professormoti3@gmail.com**
 
-- 📄 Know about my experiences [N/A](I have experience mainly in Java, and I also have some knowledge of HTML and CSS, which I'm still learning. However, I plan to focus on Java because I aspire to become an Android developer.)
+- 📄 Know about my experiences (I have experience mainly in Java, and I also have some knowledge of HTML and CSS, which I'm still learning. However, I plan to focus on Java because I aspire to become an Android developer.)
 
 - ⚡ Fun fact **I'm Slow learner**
 
