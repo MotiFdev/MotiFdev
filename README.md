@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.go2topit.com/assets/img/service-details/17_Mobile%20App%20Development.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.go2topit.com/assets/img/service-details/17_Mobile%20App%20Development.gif)]()
 <h1 align="center">Hi 👋, I'm John Elylar Tan</h1>
 <h3 align="center">Still Learning to become Android Developer</h3>
 
