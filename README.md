@@ -1,10 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/5d/8e/f7/5d8ef70e2a029df74105d6757b4e9504.gif)]()
 <h1 align="center">Hi 👋, I'm John ELylar Tan</h1>
 <h3 align="center">Still Learning to become Game Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=motifdev&label=Profile%20views&color=0e75b6&style=flat" alt="motifdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motifdev" alt="motifdev" /></a> </p>
 
 - 🔭 I’m currently working on **N/A**
 
