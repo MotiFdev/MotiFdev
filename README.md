@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm John Elylar Tan</h1>
 <h3 align="center">Still Learning to become Game Developer</h3>
 
-<img align="right" ald="coding" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpkZ3ZqaDhobWd4MHZ3N2ZkOWNtdGQwbHRjNWZuaDUydmE1Mjg5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp)">
+<img align="right" ald="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpkZ3ZqaDhobWd4MHZ3N2ZkOWNtdGQwbHRjNWZuaDUydmE1Mjg5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motifdev&label=Profile%20views&color=0e75b6&style=flat" alt="motifdev" /> </p>
 
 - 🌱 I’m currently learning **Unity**
