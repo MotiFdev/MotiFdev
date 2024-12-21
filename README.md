@@ -1,11 +1,11 @@
 [![MasterHead](https://cdn.go2topit.com/assets/img/service-details/17_Mobile%20App%20Development.gif)]()
 <h1 align="center">Hi 👋, I'm John Elylar Tan</h1>
-<h3 align="center">Still Learning to become Java Developer</h3>
+<h3 align="center">Still Learning to become Game Developer</h3>
 
 <img align="right" ald="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motifdev&label=Profile%20views&color=0e75b6&style=flat" alt="motifdev" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [N/A]
 
@@ -13,9 +13,11 @@
 
 - 📫 How to reach me **professormoti3@gmail.com**
 
-- 📄 Know about my experiences (I have experience mainly in Java, and I also have some knowledge of HTML and CSS, which I'm still learning. However, I plan to focus on Java because I aspire to become an Android developer.)
+- 📄 Know about my experiences (Solo Game Developer | Beginner | 2024 – Present
 
-- ⚡ Fun fact **If the code doesn't bother you, don't bother it.**
+I’ve always loved building web apps and exploring new technologies. Before diving into game development, I learned a lot about programming and tried web development. I created a small project for practice but soon realized it wasn’t the path I wanted to follow. I decided to change direction and eventually discovered game development. Now, I’m excited to pursue this field because I love playing games, and it's time for me to create my own game for others to enjoy.)
+
+- ⚡ Fun fact **The first video game, Tennis for Two, was created in 1958 by physicist William Higinbotham and displayed on an oscilloscope. It predates Pong, which launched the video game industry in 1972.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
