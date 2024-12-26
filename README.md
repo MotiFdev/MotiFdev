@@ -12,6 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MotiFdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MotiFdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -27,11 +28,6 @@
   />
 </picture>
 
-[example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L33)
-
-If you are only interested in generating a svg, consider using this faster action: `uses: Platane/snk/svg-only@v3`
-
-**dark mode**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MotiFdev&icon=0&color=0)](https://visitcount.itsvg.in)
