@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Game Development<br>⚡ Fun fact The first "Easter egg" in a video game was in Adventure (1980) for the Atari 2600, where a hidden room contained a secret message from the developer.
+🌱 I’m currently learning Game Development and Web Development<br>⚡ Fun fact The first "Easter egg" in a video game was in Adventure (1980) for the Atari 2600, where a hidden room contained a secret message from the developer.
 
 
 ## 🌐 Socials:
